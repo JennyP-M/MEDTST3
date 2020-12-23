@@ -1,0 +1,12 @@
+Package: MEDTST3
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Anthony Castro, Joselyn Perez, Jenny Patiño 
+Maintainer: The package maintainer <jenny.patino@dupree.com.co>
+Description: Este paquete busca realizar las medidas de servicio e inventario,rango, asertividad, diferencia y Q_besty para los datos de testeo.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr
+
